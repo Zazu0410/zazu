@@ -10,3 +10,5 @@ The project can be used in many aspects, firstly the application file generated 
 * Pay new bill
 * Add balance to the account
 * Print information of all the customers
+
+![Presentation1.pptx](https://github.com/Zazu0410/zazu/files/8354648/Presentation1.pptx)
