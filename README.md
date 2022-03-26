@@ -11,5 +11,4 @@ The project can be used in many aspects, firstly the application file generated 
 * Add balance to the account
 * Print information of all the customers
 
-
-![Image](https://github.com/Zazu0410/zazu/files/8354649/Presentation1.pdf)
+![blockdiagram](https://user-images.githubusercontent.com/91213723/160224552-ea8fcf8e-503b-4dbf-9771-974bf248e4c8.PNG)
